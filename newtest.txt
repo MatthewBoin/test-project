@@ -1,7 +1,0 @@
-This is a test file. This is a test sentence.
-
-Another test
-
-Another test after adding but before committing
-
-Another test
